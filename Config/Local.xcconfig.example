@@ -1,0 +1,4 @@
+// Copy to Config/Local.xcconfig and fill in your own settings.
+// Do not commit Local.xcconfig.
+DEVELOPMENT_TEAM = YOUR_TEAM_ID
+TRANSNAP_BUNDLE_ID = com.yourname.transnap

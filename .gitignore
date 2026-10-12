@@ -1,0 +1,35 @@
+.DS_Store
+.DerivedData/
+DerivedData/
+build/
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/
+node_modules/
+.antigravityignore
+.DerivedDataLocal/
+.swift-module-cache/
+Config/Local.xcconfig
+Config/Secrets.xcconfig
+cloudflare/**/.dev.vars
+cloudflare/**/.wrangler/
+cloudflare/**/dist/
+*.swp
+
+# Local credentials and signing files
+.env
+.env.*
+!.env.example
+*.p8
+*.p12
+*.pfx
+*.key
+*.pem
+*.mobileprovision
+*.provisionprofile
+
+# Distribution and test artifacts
+*.xcarchive/
+*.xcresult/
+*.dmg
+*.pkg

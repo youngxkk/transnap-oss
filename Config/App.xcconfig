@@ -1,0 +1,5 @@
+// Shared defaults for the open-source project.
+TRANSNAP_BUNDLE_ID = com.example.transnap
+
+// Optional, ignored by Git. Applies to the app and test targets.
+#include? "Local.xcconfig"
