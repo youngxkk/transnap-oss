@@ -1,5 +1,7 @@
 # Transnap
 
+简体中文 | [English](README.en.md)
+
 Transnap 已上线 App Store：[前往 App Store 下载](https://apps.apple.com/app/id6762361410)。
 
 Transnap 是一个完全免费的 macOS 菜单栏翻译工具，主打“复制即翻”。它基于系统 `Translation` 框架进行本机翻译，通过菜单栏面板、全局快捷键和可选的双击复制快捷方式快速唤起，适合处理阅读、聊天、文档里的碎片文本。
