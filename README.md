@@ -13,6 +13,10 @@ Transnap 是一个完全免费的 macOS 菜单栏翻译工具，主打“复制�
 - 开源版默认 Bundle ID: `com.example.transnap`（可通过本地配置修改）
 - Minimum macOS: `15.0`
 
+## 项目截图
+
+![Transnap 项目截图](docs/screenshots/screen-1.png)
+
 ## 功能概览
 
 ### 菜单栏翻译
